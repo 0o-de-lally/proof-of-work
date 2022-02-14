@@ -10,14 +10,14 @@ I've contributed to 0L since June 2019, through different DAOs and Companies. No
 I have received donations from other validators for my pre-genesis work. https://github.com/0o-de-lally/tip-jar
 
 I operate nodes for other less technical collaborators, for institutions, and for DAOs:
-- (46A - genesis) I run one node for my company 
-- (D17) A global non-profit.
-- (ECA - genesis) * The Early 2019 0L contributors 
-- (7EC - genesis) * Diaspora: A DAO for former employees of companies sponsoring 0L/libra/diem.
-- (69A) An early non-technical 0L contributor
+- (46A - genesis) My node
+- (D17) A global non-profit
+- (ECA - genesis) The Early 2019 0L contributors *
 - (355) An early non-technical 0L contributor
+- (7EC - genesis) Diaspora: A DAO for former employees of companies sponsoring 0L/libra/diem. *
+- (69A) An early non-technical 0L contributor
 
-* I will have a stake in those nodes, but the share is yet undefined by DAO governance.
+`*` I will have a stake in those nodes, but the share is yet undefined by DAO governance.
 
 # Work Contributed Since Genesis
 
