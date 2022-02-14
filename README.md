@@ -1,4 +1,4 @@
-# proof-of-work
+# 0D's proof-of-work
 
 <img width="941" alt="Screen Shot 2022-02-14 at 3 34 45 PM" src="https://user-images.githubusercontent.com/1364012/153942165-dbfb6cc9-1316-4d55-bc85-42c2ca9d048a.png">
 
