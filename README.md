@@ -54,7 +54,7 @@ Release v5 - Genesis Tools and Infrastructure
 - VM Executor: Move functions for upgrade refactor  (release 5.10)
 - VM Executor: Stdlib upgrade refactor and caching issues  (release 5.11)
 
-# Delegation
+## Delegation
 - Teams architecture
 - Move implementation of protocol https://github.com/OLSF/libra/pull/861
 - Carpe bindings
