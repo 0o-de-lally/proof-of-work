@@ -68,7 +68,7 @@ Release v5 - Genesis Tools and Infrastructure
 - December Incident Debugging and response: https://hackmd.io/KY7VklgAR72Bg7ETTQZAxA
 
 ## Engineering Management
-- ENG working group coordingator.
+- ENG working group coordinator.
 
 ## System Documentation
 - Assorted PRs see below
