@@ -1,13 +1,33 @@
 # 0D's proof-of-work
+# About:
+
+
+I've contributed to 0L since June 2019, as myself or through my consulting LLC. I support myself. I have no investors -- no one has any claim to any tokens or profits from my work. All work on 0L was volunteer based and uncompensated.  There were times I worked every day of the week without a break for months. I have no special privileges (image below). I've run one validator node for myself, in the same condition as others.
+
 
 <img width="941" alt="Screen Shot 2022-02-14 at 3 34 45 PM" src="https://user-images.githubusercontent.com/1364012/153942165-dbfb6cc9-1316-4d55-bc85-42c2ca9d048a.png">
 
-# About:
+# Sponsor Me:
+Donations are much appreciated!
 
-I've contributed to 0L since June 2019, through different DAOs and Companies. None of these have investors. All work was volunteer based and uncompensated.
+### Short Term: Help Pay My Bills
+ Short term funding is preferred in stable coins. Thank you so much for sending USDC to the Ethereum address: `0x7cB65bDA184EeeD0a62Ef083DfE9046f39fD2E16`
+
+### Long Term: Share Your Validator Rewards
+If you'd like to donate 0L coins, the best way is to set up an autopay to the Community wallet called Tip Jar so that my miners/validators can share your mining rewards. More here: https://github.com/infinite-game-llc/tip-jar
+
+`<Annoying disclaimers>`
+
+Sending anything to those wallets is a donation and as such is voluntary. To be explict, there can be no misunderstanding: there is no service, coin, or privilege that comes from sending funds to those accounts.
+
+If your from a countries sanctioned by the USA, sadly those addresses can't receive your generous gift. It's a wonderful sentiment, but please don't send since it may do more harm than good.
+
+`</Annoying disclaimers>`
+
+You're the best!
 
 # Disclosures:
-My validator/miner has been receiving donations from the public for my pre-genesis work. This comes from the community wallet Tip Jar https://github.com/infinite-game-llc/tip-jar
+
 
 I operate nodes for other less technical collaborators, for institutions, and for DAOs:
 - (46A - genesis) My node
@@ -19,7 +39,7 @@ I operate nodes for other less technical collaborators, for institutions, and fo
 
 `*` I will have a stake in those nodes, but the share is yet undefined by DAO governance.
 
-# Work Contributed Since Genesis
+# Work Contributed Since Genesis (up to Feb 14 2022)
 
 Work from June 2019 - Oct 2021, pre-genesis is not counted here
 
