@@ -22,7 +22,7 @@ If you'd like to donate 0L coins, the best way is to set up an autopay to the Co
 
 Sending anything to those wallets is a donation and as such is voluntary. To be explict, there can be no misunderstanding: there is no service, coin, or privilege that comes from sending funds to those accounts.
 
-If your from a countries sanctioned by the USA, sadly those addresses can't receive your generous gift. It's a wonderful sentiment, but please don't send since it may do more harm than good.
+If you're from a countries sanctioned by the USA, sadly those addresses can't receive your generous gift. It's a wonderful sentiment, but please don't send as it may do more harm than good.
 
 `</Annoying disclaimers>`
 
