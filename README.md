@@ -7,7 +7,7 @@
 I've contributed to 0L since June 2019, through different DAOs and Companies. None of these have investors. All work was volunteer based and uncompensated.
 
 # Disclosures:
-I have received donations from other validators for my pre-genesis work. https://github.com/0o-de-lally/tip-jar
+My validator/miner has been receiving donations from the public for my pre-genesis work. This comes from the community wallet Tip Jar https://github.com/infinite-game-llc/tip-jar
 
 I operate nodes for other less technical collaborators, for institutions, and for DAOs:
 - (46A - genesis) My node
