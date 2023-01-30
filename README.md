@@ -28,6 +28,9 @@ If you're from a countries sanctioned by the USA, sadly those addresses can't re
 
 You're the best!
 
+![thank-you](https://user-images.githubusercontent.com/1364012/215603324-ce06967b-1b7c-4aa7-a372-2393e1099124.gif)
+
+
 # Disclosures:
 
 
