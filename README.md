@@ -2,7 +2,9 @@
 # About:
 
 
-I've contributed to 0L since June 2019, as myself or through my consulting LLC. I support myself. I have no investors -- no one has any claim to any tokens or profits from my work. All work on 0L was volunteer based and uncompensated.  There were times I worked every day of the week without a break for months. I have no special privileges (image below). I've run one validator node for myself, in the same conditions as the public.
+I've contributed to 0L since June 2019, as myself or through my consulting LLC. I support myself. I have no investors -- no one has any claim to any tokens or profits from my work. All work on 0L was volunteer based and uncompensated. I have no special privileges; I've run one validator node for myself, in the same conditions as the public.
+
+There were times I worked every day of the week without a break for months:
 
 
 <img width="941" alt="Screen Shot 2022-02-14 at 3 34 45 PM" src="https://user-images.githubusercontent.com/1364012/153942165-dbfb6cc9-1316-4d55-bc85-42c2ca9d048a.png">
