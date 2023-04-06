@@ -4,10 +4,16 @@
 
 I've contributed to 0L since June 2019, as myself or through my consulting LLC. I support myself. I have no investors -- no one has any claim to any tokens or profits from my work. All work on 0L was volunteer based and uncompensated. I have no special privileges; I've run one validator node for myself, in the same conditions as the public.
 
-There were times I worked every day of the week without a break for months:
+Here's an estimate of my time tracking up to March 31 2023:
+
+<img width="814" alt="Screen Shot 2023-04-06 at 10 29 39 AM" src="https://user-images.githubusercontent.com/1364012/230409082-8fb01f5b-0197-4c82-8709-fbbb09ee64cb.png">
+
+
+There were times I worked every day of the week without a break for months, e.g. 2021-2022:
 
 
 <img width="941" alt="Screen Shot 2022-02-14 at 3 34 45 PM" src="https://user-images.githubusercontent.com/1364012/153942165-dbfb6cc9-1316-4d55-bc85-42c2ca9d048a.png">
+
 
 # Sponsor Me:
 Donations are much appreciated!
